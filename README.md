@@ -11,8 +11,11 @@ Application Features:
 Your website should implement the following features:
 
 [X] 3 defined sections - main header, biography, and videos.
+
 [X] Embedded video of interview questions.
+
 [X] Demonstrate minimal CSS styling of background colors, images, text, and positioning.
+
 [X] At least one accessible feature (i.e color sensitive choices, alt-text for images, etc)
 
 Interview Prompts: 
